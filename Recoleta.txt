@@ -1,0 +1,4 @@
+Cliente       Dirección       Sector         Cil. 5kg        Cil. 15kg        Cil. 45kg
+asdsad asdsadsa     dadsadsad     Recoleta     0      23     0
+asdsad sadsadsad     sadsadsadsa     Recoleta     0      0     7
+asdjs asdjsa     Jjad     Recoleta     0      0     0
